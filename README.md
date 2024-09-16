@@ -2,15 +2,22 @@
 
 # Air-BNB Travel Data Analysis Project 📊
 
-# ❓ Problem Statement
+# ❓Exploring Airbnb’s Expansion in Personalized Travel Experiences: A Data-Driven Analysis of NYC Homestays
 
-Air BNB has aimed to expand on travelling possibilities and present more unique, personalized ways of experiencing destinations. The analysis aims to draw insights from the data obtained from the listing activity of homestays in New York City. Some research questions need to be answered with respect to all the listings of past booking information. To draw insights develop a report by Extracting-Transforming-Loading of data which contains listings of the past booking information. Analyze the data with respect to the Host, the neighbourhood, and customer pricing and reviews.
+Airbnb is reshaping the travel landscape by offering more unique and tailored experiences for travelers. This analysis seeks to derive meaningful insights from historical booking data of homestay listings in New York City. To do so, we will employ the Extract-Transform-Load (ETL) process to analyze key aspects of the data, answering essential research questions related to:
+
+Host Engagement & Performance
+Neighborhood Popularity & Trends
+Customer Pricing Strategies
+Guest Reviews & Satisfaction
+By exploring these factors, this report aims to uncover patterns and insights that can help enhance Airbnb's travel offerings and improve both host and guest experiences in NYC.
 
 # 🛠 Tools Used
 
 1. Excel
 2. Power BI
 3. Power Query
+4. PowerPoint
    
 # 📉 Dashboard
 
@@ -20,17 +27,28 @@ Air BNB has aimed to expand on travelling possibilities and present more unique,
 ![image](https://github.com/user-attachments/assets/25b1e305-2ec4-48d9-b697-edc6273e13e3)
 
 
-Watch the complete Dashboard video Link
+Watch the complete Dashboard video [Link](https://www.youtube.com/watch?v=KEbqDzawWGA)
 
-# ✔️ Conclusion
+# ✔️ Key Insights from NYC Airbnb Homestay Analysis
 
-Highest number of bookings are seen in the Manhattan Neighbourhood Group
-The top earning hosts in New York City are the ones having maximum percentage of bookings in the Manhattan Neighbourhood Group making it the most preferred area by customers.
-Neighbourhoods with the highest average pricing are the ones that have less number of bookings
-Average pricing in relation with the reviews is almost the same for every review score out of 5
-The mostly preferred room types are Entire Home/ Apartments, Private Rooms
-Entire Home/ apt, Private Rooms are also the ones having less average pricing
-Manhattan has the maximum bookings and 88% of which are bookings of Entire Homes/ Apartments
+Our comprehensive analysis of Airbnb homestays in New York City reveals intriguing trends and preferences in customer behavior, host success, and pricing strategies. Below are the standout findings:
+
+Manhattan: The Epicenter of Airbnb Activity
+Manhattan dominates the Airbnb market with the highest number of bookings across all neighborhood groups. Notably, the top-earning hosts also have the majority of their bookings in this area, solidifying Manhattan as the most preferred destination for travelers.
+
+Pricing Paradox: High Prices, Fewer Bookings
+Interestingly, neighborhoods with the highest average pricing tend to experience fewer bookings. This suggests that while premium areas exist, they are less frequently chosen by guests.
+
+Price vs. Reviews: Consistent Across the Board
+When comparing average pricing with review scores, the pricing remains relatively consistent across various review ratings, indicating minimal correlation between price and customer review scores (out of 5).
+
+Room Type Preferences
+Travelers overwhelmingly prefer Entire Homes/Apartments and Private Rooms as their accommodation types. Despite being the most popular, these room types also boast lower average pricing compared to other options.
+
+Manhattan’s Room Type Breakdown
+Within Manhattan, 88% of the bookings are for Entire Homes/Apartments, reinforcing its appeal as a destination for guests seeking privacy and a complete space to themselves.
+
+These insights offer a clear understanding of the current trends in the New York City Airbnb market, helping hosts and travelers make more informed decisions.
 
 # 🗂 Documentation
 
